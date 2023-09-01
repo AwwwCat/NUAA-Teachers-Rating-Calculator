@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bKb8d29zoWCf+Nhk1mE2dZvqjHf0htuCDx60yiZLfWstWhhbZCibRh088Hj8RP2WCiKVmD1YpU3elXEGUoty+w==",
+  "success": true,
+  "projectFilePath": "F:\\Desktop\\Github\\NUAA-Teachers-Rating-Calculator\\Teachers Scores\\Teachers Scores.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\23582\\.nuget\\packages\\exceldatareader\\3.6.0\\exceldatareader.3.6.0.nupkg.sha512",
+    "C:\\Users\\23582\\.nuget\\packages\\exceldatareader.dataset\\3.6.0\\exceldatareader.dataset.3.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

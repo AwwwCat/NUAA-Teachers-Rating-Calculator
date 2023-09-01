@@ -1,0 +1,18 @@
+F:\Desktop\vs sourse\Teachers Scores\Teachers Scores\bin\Debug\net6.0\Teachers Scores.exe
+F:\Desktop\vs sourse\Teachers Scores\Teachers Scores\bin\Debug\net6.0\Teachers Scores.deps.json
+F:\Desktop\vs sourse\Teachers Scores\Teachers Scores\bin\Debug\net6.0\Teachers Scores.runtimeconfig.json
+F:\Desktop\vs sourse\Teachers Scores\Teachers Scores\bin\Debug\net6.0\Teachers Scores.dll
+F:\Desktop\vs sourse\Teachers Scores\Teachers Scores\bin\Debug\net6.0\Teachers Scores.pdb
+F:\Desktop\vs sourse\Teachers Scores\Teachers Scores\bin\Debug\net6.0\ExcelDataReader.dll
+F:\Desktop\vs sourse\Teachers Scores\Teachers Scores\bin\Debug\net6.0\ExcelDataReader.DataSet.dll
+F:\Desktop\vs sourse\Teachers Scores\Teachers Scores\obj\Debug\net6.0\Teachers Scores.csproj.AssemblyReference.cache
+F:\Desktop\vs sourse\Teachers Scores\Teachers Scores\obj\Debug\net6.0\Teachers Scores.GeneratedMSBuildEditorConfig.editorconfig
+F:\Desktop\vs sourse\Teachers Scores\Teachers Scores\obj\Debug\net6.0\Teachers Scores.AssemblyInfoInputs.cache
+F:\Desktop\vs sourse\Teachers Scores\Teachers Scores\obj\Debug\net6.0\Teachers Scores.AssemblyInfo.cs
+F:\Desktop\vs sourse\Teachers Scores\Teachers Scores\obj\Debug\net6.0\Teachers Scores.csproj.CoreCompileInputs.cache
+F:\Desktop\vs sourse\Teachers Scores\Teachers Scores\obj\Debug\net6.0\Teachers Scores.csproj.CopyComplete
+F:\Desktop\vs sourse\Teachers Scores\Teachers Scores\obj\Debug\net6.0\Teachers Scores.dll
+F:\Desktop\vs sourse\Teachers Scores\Teachers Scores\obj\Debug\net6.0\refint\Teachers Scores.dll
+F:\Desktop\vs sourse\Teachers Scores\Teachers Scores\obj\Debug\net6.0\Teachers Scores.pdb
+F:\Desktop\vs sourse\Teachers Scores\Teachers Scores\obj\Debug\net6.0\Teachers Scores.genruntimeconfig.cache
+F:\Desktop\vs sourse\Teachers Scores\Teachers Scores\obj\Debug\net6.0\ref\Teachers Scores.dll
