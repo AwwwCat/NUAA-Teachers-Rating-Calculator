@@ -7,10 +7,10 @@
 需要调整的代码请**参考代码注释**。
 # 考核方式
 * 一般教师  
-![](https://github.com/AwwwCat/Teachers-Rating-Calculator/blob/main/Readme/1.jpg)
-![](https://github.com/AwwwCat/Teachers-Rating-Calculator/blob/main/Readme/2.jpg)  
+![](https://github.com/AwwwCat/NUAA-Teachers-Rating-Calculator/blob/main/Readme/1.jpg)
+![](https://github.com/AwwwCat/NUAA-Teachers-Rating-Calculator/blob/main/Readme/2.jpg)  
 * 实验岗教师
-![](https://github.com/AwwwCat/Teachers-Rating-Calculator/blob/main/Readme/3.jpg)  
+![](https://github.com/AwwwCat/NUAA-Teachers-Rating-Calculator/blob/main/Readme/3.jpg)  
 # 文件说明
 所有文件均应为两列，第一列为姓名，第二列为数据，不得包含其他数据或标注（例如：表头、总计等）  
 （教师姓名数据若导入成功有其他标注也无所谓==）。  
@@ -52,7 +52,8 @@ dS2-1至dS2-12 | 分别对应实验岗五六七岗教师S2的前12项 | double
 eS2-1至eS2-7 | 分别对应实验岗八九十岗教师S2的前7项 | double
 dS3 | 实验岗教师实验室工作完成 | double
 S6 | 集体工作达到要求 | double
-## TXT文件夹
-该文件夹包含了输出的TXT文件
 ## Teachers Scores文件夹
 该文件夹包含了项目文件
+# 其他
+`program.cs`中可能有需要修改的代码，具体在第60、779、801、832行，均已经用注释标出。  
+若南航十五院相关同学需要包含数据的项目可以私我。  
